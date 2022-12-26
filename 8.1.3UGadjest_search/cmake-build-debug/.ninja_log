@@ -1,0 +1,23 @@
+# ninja log v5
+0	71	6904791764106893	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+72	168	6904791765026892	UGadjest_search.exe	8ff85e85cb5bb4c8
+1	75	6904792395922684	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+76	187	6904792397032720	UGadjest_search.exe	8ff85e85cb5bb4c8
+2	70	6904793296424748	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+71	175	6904793297394760	UGadjest_search.exe	8ff85e85cb5bb4c8
+1	74	6904795910939514	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+74	171	6904795911879510	UGadjest_search.exe	8ff85e85cb5bb4c8
+2	615	6904817737426028	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+617	757	6904817738819249	UGadjest_search.exe	8ff85e85cb5bb4c8
+3	592	6904821352080176	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+592	694	6904821353070172	UGadjest_search.exe	8ff85e85cb5bb4c8
+2	653	6904830777905780	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+654	778	6904830779119979	UGadjest_search.exe	8ff85e85cb5bb4c8
+2	719	6906115450734094	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+720	850	6906115452011659	UGadjest_search.exe	8ff85e85cb5bb4c8
+2	618	6906129663124409	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+619	722	6906129664142552	UGadjest_search.exe	8ff85e85cb5bb4c8
+3	688	6914812799074436	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+688	807	6914812800220600	UGadjest_search.exe	8ff85e85cb5bb4c8
+2	588	6915153571681803	CMakeFiles/UGadjest_search.dir/main.c.obj	719eb289e68daf57
+589	686	6915153572632846	UGadjest_search.exe	8ff85e85cb5bb4c8

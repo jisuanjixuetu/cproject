@@ -1,0 +1,19 @@
+# ninja log v5
+0	101	6890809997273613	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+102	204	6890809998268296	CountLeaf.exe	277cf404ca87a07f
+2	69	6890810441859887	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+70	165	6890810442779919	CountLeaf.exe	277cf404ca87a07f
+2	72	6890811562558202	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+72	168	6890811563487462	CountLeaf.exe	277cf404ca87a07f
+1	78	6890812387085162	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+78	178	6890812388045257	CountLeaf.exe	277cf404ca87a07f
+2	71	6890812987853318	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+71	166	6890812988777883	CountLeaf.exe	277cf404ca87a07f
+1	72	6890813474355966	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+73	171	6890813475315969	CountLeaf.exe	277cf404ca87a07f
+2	75	6890813945232416	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+76	174	6890813946188754	CountLeaf.exe	277cf404ca87a07f
+1	69	6890814241341366	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+70	163	6890814242246904	CountLeaf.exe	277cf404ca87a07f
+1	71	6890817663344159	CMakeFiles/CountLeaf.dir/main.c.obj	adf5144cdcaaa1d2
+71	164	6890817664252211	CountLeaf.exe	277cf404ca87a07f

@@ -1,0 +1,8 @@
+# ninja log v5
+9	102	6870254665204281	CMakeFiles/editor.dir/line.editor.c.obj	336a7b9cc4cd086d
+1	104	6870254665204281	CMakeFiles/editor.dir/main.c.obj	5abbc854c0b764d9
+104	259	6870254666738048	editor.exe	847c260bff4ebe41
+3	94	6870254868378598	CMakeFiles/editor.dir/main.c.obj	5abbc854c0b764d9
+95	241	6870254869808605	editor.exe	847c260bff4ebe41
+2	90	6870255223109621	CMakeFiles/editor.dir/line.editor.c.obj	336a7b9cc4cd086d
+90	224	6870255224409572	editor.exe	847c260bff4ebe41

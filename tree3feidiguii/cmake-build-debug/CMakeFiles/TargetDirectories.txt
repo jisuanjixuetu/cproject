@@ -1,0 +1,3 @@
+C:/Users/86199/CLionProjects/tree3feidiguii/cmake-build-debug/CMakeFiles/tree3feidiguii.dir
+C:/Users/86199/CLionProjects/tree3feidiguii/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86199/CLionProjects/tree3feidiguii/cmake-build-debug/CMakeFiles/rebuild_cache.dir

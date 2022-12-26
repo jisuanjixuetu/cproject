@@ -1,0 +1,9 @@
+# ninja log v5
+3	101	6910699577394483	CMakeFiles/Lab4.dir/main.c.obj	297f0f581234e707
+0	210	6910695563554759	CMakeFiles/Lab4.dir/run.c.obj	f2f3f73a7f081d1e
+30	204	6910695563444756	CMakeFiles/Lab4.dir/call.c.obj	eb3ea89da7fae484
+2	75	6910696117157511	CMakeFiles/Lab4.dir/conf.c.obj	103723cf517a44ae
+10	83	6910716011986711	CMakeFiles/Lab4.dir/view.c.obj	5dafd6d5bb884d33
+297	410	6910716015216700	Lab4.exe	f9606f1c753a5be9
+2	102	6910716012176703	CMakeFiles/Lab4.dir/loadfile.c.obj	207653f4b5b08e65
+18	297	6910716014126750	CMakeFiles/Lab4.dir/sort.c.obj	f2571395d66669d9

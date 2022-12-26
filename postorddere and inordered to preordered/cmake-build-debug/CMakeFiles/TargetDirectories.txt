@@ -1,0 +1,3 @@
+C:/Users/86199/CLionProjects/postorddere and inordered to preordered/cmake-build-debug/CMakeFiles/postorddere_and_inordered_to_preordered.dir
+C:/Users/86199/CLionProjects/postorddere and inordered to preordered/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86199/CLionProjects/postorddere and inordered to preordered/cmake-build-debug/CMakeFiles/rebuild_cache.dir

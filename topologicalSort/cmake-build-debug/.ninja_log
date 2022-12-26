@@ -1,0 +1,13 @@
+# ninja log v5
+1	82	6907997322081799	CMakeFiles/topologicalSort.dir/main.c.obj	f6335e15e7e1cff4
+83	195	6907997323168177	topologicalSort.exe	d6dc3505f1b9be78
+2	69	6907998327010964	CMakeFiles/topologicalSort.dir/main.c.obj	f6335e15e7e1cff4
+70	160	6907998327881341	topologicalSort.exe	d6dc3505f1b9be78
+3	83	6907999100988151	CMakeFiles/topologicalSort.dir/main.c.obj	f6335e15e7e1cff4
+84	182	6907999101935003	topologicalSort.exe	d6dc3505f1b9be78
+2	86	6908110546930709	CMakeFiles/topologicalSort.dir/main.c.obj	f6335e15e7e1cff4
+86	187	6908110547917119	topologicalSort.exe	d6dc3505f1b9be78
+2	70	6908112338225753	CMakeFiles/topologicalSort.dir/main.c.obj	f6335e15e7e1cff4
+71	165	6908112339126979	topologicalSort.exe	d6dc3505f1b9be78
+1	70	6908113459294710	CMakeFiles/topologicalSort.dir/main.c.obj	f6335e15e7e1cff4
+71	162	6908113460181745	topologicalSort.exe	d6dc3505f1b9be78

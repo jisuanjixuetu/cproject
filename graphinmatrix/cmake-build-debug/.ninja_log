@@ -1,0 +1,9 @@
+# ninja log v5
+0	130	6899376715102439	CMakeFiles/graphinmatrix.dir/main.c.obj	f63235f99dbcb8b5
+132	284	6899376716607394	graphinmatrix.exe	82edb1503a69d16e
+2	233	6899376840783444	CMakeFiles/graphinmatrix.dir/main.c.obj	f63235f99dbcb8b5
+234	475	6899376843132298	graphinmatrix.exe	82edb1503a69d16e
+3	122	6899395518708807	CMakeFiles/graphinmatrix.dir/main.c.obj	f63235f99dbcb8b5
+123	283	6899395520273614	graphinmatrix.exe	82edb1503a69d16e
+2	84	6899442874872861	CMakeFiles/graphinmatrix.dir/main.c.obj	f63235f99dbcb8b5
+85	183	6899442875819709	graphinmatrix.exe	82edb1503a69d16e

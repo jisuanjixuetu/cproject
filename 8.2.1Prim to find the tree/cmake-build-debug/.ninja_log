@@ -1,0 +1,27 @@
+# ninja log v5
+1	649	6906194680191583	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+652	775	6906194681407498	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	620	6906244093808351	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+621	724	6906244094814998	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	621	6906248104305871	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+621	727	6906248105332437	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	614	6906252864962088	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+614	712	6906252865908357	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	607	6906254387895387	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+608	707	6906254388864529	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	647	6906254816618662	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+648	755	6906254817654231	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	657	6906371167387570	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+657	762	6906371168407123	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	951	6906447516830532	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+952	1086	6906447518136210	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	781	6914788379490670	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+782	969	6914788381334533	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+1	573	6915155360627691	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+573	670	6915155361577735	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	585	6915159494763990	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+586	685	6915159495734010	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	631	6917732266867608	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+632	776	6917732268269829	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b
+2	624	6917736108090540	CMakeFiles/Prim_to_find_the_tree.dir/main.c.obj	f43c90583ca77846
+624	749	6917736109308214	Prim_to_find_the_tree.exe	20eb8eff9cd71b7b

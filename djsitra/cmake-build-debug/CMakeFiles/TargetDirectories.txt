@@ -1,0 +1,3 @@
+C:/Users/86199/CLionProjects/djsitra/cmake-build-debug/CMakeFiles/djsitra.dir
+C:/Users/86199/CLionProjects/djsitra/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/86199/CLionProjects/djsitra/cmake-build-debug/CMakeFiles/rebuild_cache.dir

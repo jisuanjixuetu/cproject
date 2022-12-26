@@ -1,0 +1,7 @@
+# ninja log v5
+1	68	6903773429340964	CMakeFiles/system.dir/main.c.obj	7931188daf84e4ca
+68	162	6903773430259015	system.exe	35f908f19ff5ba8b
+2	76	6903774520004684	CMakeFiles/system.dir/main.c.obj	7931188daf84e4ca
+77	176	6903774520974685	system.exe	35f908f19ff5ba8b
+2	72	6903774662209662	CMakeFiles/system.dir/main.c.obj	7931188daf84e4ca
+73	170	6903774663159070	system.exe	35f908f19ff5ba8b
